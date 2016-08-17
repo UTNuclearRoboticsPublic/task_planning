@@ -1,0 +1,19 @@
+	"load": {
+		"pre": [
+			{"atom": "loaded", "value": "false"}
+	    	]
+		"pst": [
+			{"atom": "loaded", "value": "true"}
+		]
+	}
+	
+	"shoot": {
+		"pre": [
+			{"atom": "loaded", "value": "true"}
+			{"atom": "enemyalive", "value": "true"}
+		]
+		"pst": [
+			{"atom": "enemyalive", "value": "false"}
+			{"atom": "loaded", "value": "false"}
+		]
+	}
