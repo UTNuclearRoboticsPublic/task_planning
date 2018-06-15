@@ -17,6 +17,8 @@ TABLE OF CONTENTS
 
   4 Contact
 
+  5 License
+
 1 INTRODUCTION
 
   This package provides a library of classes implementing Goal Oriented Action Planning (GOAP). Although this is organized as a ROS package, the library itself does not utilize any ROS features.
@@ -45,4 +47,8 @@ TABLE OF CONTENTS
 
   Blake Anderson 
   blakeanderson@utexas.edu
+
+5 LICENSE
+
+  See License.txt for terms of use for this package.
 

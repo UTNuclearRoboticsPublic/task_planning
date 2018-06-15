@@ -5,7 +5,7 @@
   <description>Provides Goal Oriented Action Planning (GOAP) library</description>
 
   <maintainer email="blakeanderson@utexas.edu">Blake Anderson</maintainer>
-  <license>Proprietary</license>
+  <license>LANS</license>
   <author email="blakeanderson@utexas.edu">Blake Anderson</author>
 
   <buildtool_depend>catkin</buildtool_depend>
