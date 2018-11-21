@@ -38,6 +38,8 @@ TABLE OF CONTENTS
 3 USAGE
 
   See GOAP.pdf for explanation of action planning principles and example code.
+
+  simple_nav_example.cpp is a minimal example.
   
   rosrun task_planning goap_test - Performs a test of the ActionPlanner class.
 
