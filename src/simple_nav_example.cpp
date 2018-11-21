@@ -8,7 +8,6 @@
 ////////////////////////////
 goap::TaskManager::RETURN_TYPE navigateRobotCallback(std::string robot_name, std::string label)
 {
-	// TODO: put this in a library, and send the navigation command from there
 	printf("Navigating\n");
 	return goap::TaskManager::RETURN_TYPE::CONTINUE;
 }
